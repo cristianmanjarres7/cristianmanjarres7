@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Cristian
 
-<!--
-**cristianmanjarres7/cristianmanjarres7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently learning programming and building my path toward becoming an AI Engineer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+* Learning Python fundamentals
+* Building small projects
+* Developing my AI project **Lumina**
+
+---
+
+## ✨ About Lumina
+
+Lumina is a project focused on creating a positive impact in people's lives through AI, combining technology, purpose, and personal growth.
+
+---
+
+## 📈 Progress
+
+* ✅ Python Basics (Variables & Expressions)
+* ⏳ Next: Conditionals
+
+---
+
+## 🎯 Goal
+
+To become an AI Engineer and build technology that makes a real difference.
+
+---
+
